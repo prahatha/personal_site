@@ -1,0 +1,9 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "Prahatha Venkatraman"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: research.html
